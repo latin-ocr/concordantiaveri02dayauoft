@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./concordantiaveri02dayauoft_0005.png"; bbox 0 0 2138 3063; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 646 566 1483 916">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 646 566 1483 916">
+     <span class='ocr_line' id='line_1_1' title="bbox 646 566 1483 618; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 646 579 740 618; x_wconf 67' lang='lat' dir='ltr'><strong><em>m</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 771 573 1156 616; x_wconf 57' lang='lat' dir='ltr'><strong>&#39;naumann</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1188 566 1483 610; x_wconf 56' lang='lat' dir='ltr'><strong>vannus·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 857 724 1252 765; baseline -0.015 0"><span class='ocrx_word' id='word_1_4' title='bbox 857 725 1161 765; x_wconf 55' lang='lat' dir='ltr'><strong>3¹1·anae</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1188 724 1252 760; x_wconf 73' lang='grc' dir='ltr'><strong>το</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 740 872 1395 916; baseline -0.014 0"><span class='ocrx_word' id='word_1_6' title='bbox 740 876 981 916; x_wconf 58' lang='lat' dir='ltr'><strong>ammte?</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1015 876 1072 912; x_wconf 68' lang='lat' dir='ltr'><strong>or</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1098 872 1395 910; x_wconf 51' lang='lat' dir='ltr'><strong>*sammon</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 861 1022 1285 1065">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 861 1022 1285 1065">
+     <span class='ocr_line' id='line_1_4' title="bbox 861 1022 1285 1065; baseline -0.012 0"><span class='ocrx_word' id='word_1_9' title='bbox 861 1026 984 1065; x_wconf 55' lang='lat' dir='ltr'><strong>’a&#39;</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1012 1027 1105 1063; x_wconf 69' lang='lat' dir='ltr'><strong>nn</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1135 1022 1285 1061; x_wconf 67' lang='lat' dir='ltr'><strong>sm</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
